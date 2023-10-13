@@ -1,0 +1,1 @@
+A simple implementation of the classic rock-paper-scissors. Purpose is to practice javascript fundamentals.
