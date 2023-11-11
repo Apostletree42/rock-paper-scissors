@@ -9,6 +9,8 @@ let computerScore = 0;
 
 button.addEventListener('click', function() {
     feedback1.innerHTML = 'Select below to play :D';
+
+
     function getComputerChoice(){
         let randomNumber = Math.floor(Math.random() * 3);
         switch(randomNumber){
