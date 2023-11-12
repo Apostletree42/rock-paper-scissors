@@ -39,7 +39,7 @@ Simple and engaging game logic implemented in JavaScript.
 
 Installation
 
-Clone the Repository: git clone https://github.com/yourusername/rock-paper-scissors.git
+Clone the Repository: git clone https://github.com/Apostletree42/rock-paper-scissors.git
 
 Open in Browser: Launch the index.html file in your preferred web browser.
 
